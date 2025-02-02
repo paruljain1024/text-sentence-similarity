@@ -1,0 +1,4 @@
+Model,Avg Cosine Similarity,Inference Time (S),Model Size (Mb),Topsis Score,Rank
+sentence-transformers/all-MiniLM-L6-v2,0.3876173,0.1483590602874755,86.64404296875,0.0286518420684415,3.0
+sentence-transformers/all-roberta-large-v1,0.4911058,0.4559893608093261,1355.58984375,0.6706095615547892,1.0
+bert-base-uncased,0.7434565,0.1320830583572387,417.6416015625,0.4538724385951223,2.0
